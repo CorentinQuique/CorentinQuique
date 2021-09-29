@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CorentinQuique
+- 👀 I’m interested in social networks, community management and music.
+- 🌱 I’m currently learning project management.
+- 💞️ I’m looking to collaborate on free software.
+- 📫 How to reach me : corentinq.fr
